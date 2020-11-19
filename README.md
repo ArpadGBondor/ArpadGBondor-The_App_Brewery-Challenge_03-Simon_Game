@@ -6,6 +6,7 @@ This was the third challenge project through the course.
  - HTML5
  - CSS3
  - JavaScript
+ - jQuery
 
 #### Game description:
  - You have to remember to a sequence of colorful buttons, while each level ads a new element to the sequence. 
